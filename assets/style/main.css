@@ -1,0 +1,18 @@
+body{
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+img{
+  height: 80px;
+  padding-top: 65px;
+}
+
+.head{
+  background-color: #4EA0FF;
+  height: 150px;
+  background-image: url(../img/pattern.png);
+  background-position: top;
+  background-size: 40%;
+}
