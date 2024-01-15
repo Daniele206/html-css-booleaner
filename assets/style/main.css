@@ -4,6 +4,10 @@ body{
   margin: 0;
 }
 
+.lmargin{
+  margin-left: 10px;
+}
+
 .head img{
   height: 80px;
   padding-top: 65px;
@@ -36,4 +40,12 @@ body{
 .subtitle .data{
   margin-top: 0;
   font-size: 20px;
+}
+
+.soggetto img{
+  height: 500px;;
+}
+
+.soggetto .description{
+  font-weight: bold;
 }
