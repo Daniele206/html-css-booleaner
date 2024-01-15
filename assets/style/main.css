@@ -1,6 +1,5 @@
 body{
   padding: 0;
-  border: 0;
   margin: 0;
 }
 
@@ -43,9 +42,40 @@ body{
 }
 
 .soggetto img{
-  height: 500px;;
+  height: 520px;;
 }
 
 .soggetto .description{
   font-weight: bold;
+}
+
+.testo{
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.testo .evidenziato{
+  background-color: yellow;
+}
+
+thead{
+  background-color: #20A9E5;
+  color: white;
+}
+
+thead tr th{
+  text-align: left;
+}
+
+tbody{
+  font-weight: bold;
+}
+
+tbody .azzurro{
+  background-color: #B1E5F2;
+}
+
+tbody .testotable{
+  width: 50%;
 }
